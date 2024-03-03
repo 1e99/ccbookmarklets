@@ -1,0 +1,1 @@
+(()=>{var o=[document.querySelector("#smallSupport"),document.querySelector("#support"),document.querySelector(".google-revocation-link-placeholder"),...document.querySelectorAll(".ad")];for(let e of o)e?.remove();})();
